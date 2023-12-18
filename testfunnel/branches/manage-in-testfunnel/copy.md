@@ -2,8 +2,6 @@
 
 [Vale](https://vale.sh/) is a linting tool that helps you maintain the highest standards in your technical documents. It's designed to catch spelling errors, grammatical mistakes, and style inconsistencies. With Vale, you can enforce a unified writing style, adhere to industry-specific guidelines, and enhance the overall readability and professionalism of your content.
 
-This guide walks you through the process of installing and configuring Vale for your project.
-
 ## Prerequisites
 
 Install [VS Code](https://code.visualstudio.com/) and open your project in it.
